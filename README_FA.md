@@ -1,5 +1,6 @@
-# 🌐 اکوسیستم KMBTA — ماتریس رایانش شخصی سایبر-رترو و سخت‌افزار یکپارچه
+# 🌐 اکوسیستم KMBTA — ماتریس رایانش شخصی سایبر-رترو و سخت‌افزار یکپارچه <img src="assets/lion_and_sun_flag.svg" alt="Lion and Sun" height="28" valign="middle" />
 
+[![نشان: شیر و خورشید](https://img.shields.io/badge/ایران-شیر_و_خورشید_🦁☀️-239f40.svg)](README_FA.md)
 [![لایسنس: MIT](https://img.shields.io/badge/لایسنس-MIT-cyan.svg)](LICENSE)
 [![معماری: توزیع‌شده](https://img.shields.io/badge/معماری-توزیع%20شده-blueviolet.svg)](#معماری-کلی-سیستم)
 [![زبان‌ها](https://img.shields.io/badge/زبان‌ها-پایتون%20%7C%20سی%20پلاس%20پلاس%20%7C%20جاوااسکریپت-00e5ff.svg)](#پشته-فنی)

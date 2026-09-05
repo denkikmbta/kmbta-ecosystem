@@ -3,11 +3,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-cyan.svg)](LICENSE)
 [![Architecture: Distributed](https://img.shields.io/badge/Architecture-Distributed%20Ecosystem-blueviolet.svg)](#architecture)
 [![Language: Python%20%7C%20C%2B%2B%20%7C%20JS](https://img.shields.io/badge/Languages-Python%20%7C%20C%2B%2B%20%7C%20JS-00e5ff.svg)](#tech-stack)
-[![Language: Farsi](https://img.shields.io/badge/زبان-فارسی-amber.svg)](README_FA.md)
+[![Language: Persian](https://img.shields.io/badge/فارسی-شیر_و_خورشید_🦁☀️-239f40.svg)](README_FA.md)
 
 > **KMBTA** is a self-hosted, cross-device personal operating environment that seamlessly unifies **Linux laptops**, **Windows workstations**, **Android mobile devices**, and **custom ESP32 hardware cyberdecks** into a synchronized cyber-retro command mesh.
 
-[🇮🇷 **نسخه فارسی مستندات (Persian / Farsi Documentation)**](README_FA.md)
+[<img src="assets/lion_and_sun_flag.svg" alt="Lion and Sun Flag" height="16" valign="middle" /> **نسخه فارسی مستندات (Persian / Farsi Documentation)**](README_FA.md)
 
 ---
 
